@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Projects"
-    url: /publications/
+    url: /markdown/
 
   - title: "Research Work"
-    url: /talks/    
+    url: /markdowna/   
 
   - title: "Industrial Experience"
-    url: /teaching/    
+    url: /markdownb/   
     
   - title: "Skills"
-    url: /portfolio/
+    url: /markdownc/
         
   - title: "Resume"
     url: /cv/   
     
   - title: "CV"
-    url: /markdown/
+    url: 
 
     
    
