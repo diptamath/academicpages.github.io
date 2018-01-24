@@ -1,23 +1,24 @@
 ---
 permalink: /markdownb/
-title: "Markdown"
+title: "Industrial Experience"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+Here are the short description of my internships in startups/company. I like to do internship in start-ups as they always welcome new ideas and I can be able to lean so many things in a short time. I meet some wonderful people there while working on their projects.
 
-## Locations of key files/directories
+## DataWUDI 
+**Auto-Summary Generator for a topic in a search engine**
+*From 20/6/17 to 20/8/17*
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+Summer Internship at “WUDI” for “Designing and Development of a NLP & AI based Web Application on Auto-Summary Generator for a topic in a search engine” for 2 months with a pay 70000 Rs(USD $ 1094.43) for 2  months .
+
+## NAXAP
+**Designing and Development of  Data embedding and retrieval system for  image ,audio ,video files using invisible watermarks**                                                                                                                              *27th Augt,17- 8th Oct*               
+This project is a virtual internship at a startup  “NAXAP”  for “ Designing and Development of  Data embedding and retrieval system for  image ,audio ,video files using invisible watermarks” for their product. This extension is made to protect the copyright and ownership of the files/document and share it more securely.
+
+## Giscle
+**Advanced Lane Detection in the Indian road during day&night time and auto tuning of parameters**                                                                                     *Dec,17- Feb,18*               
+This project is a virtual internship at a startup “Giscle” for “Designing and Development of algorithm & it’s module for Lane Detection in the Indian road during night time and auto tuning of parameters. This module will be used for their Product for Autonomous Cars.
+
