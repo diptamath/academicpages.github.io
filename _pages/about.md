@@ -18,7 +18,7 @@ I’m also an AI & Deep Learning Enthusiast. I am intrigued by with its applicat
 Well, during leisure, I like to listen music (from different countries), read books (mostly thriller ones) etc.I also like to travel and have some interest in art, design.
 
 My Research Interests
-------
+======
 -* Robotics
 -* Computer vision 
 +* Machine Learning and its Applications
