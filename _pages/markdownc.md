@@ -43,13 +43,13 @@ redirect_from:
 
 # Extra Online Courses & Workshop attained
 
-- * Machine Learning by Andrew Ng from Stanford University.
-- * Digital Image Processing by Guillermo Sapiro from Duke University.
-- * Robotics by Oussama Khatib from Stanford University.
-- * Natural Language Processing with Deep Learning
-+ * Introduction to Linear Dynamical Systems
-+ * Convex analysis and optimization
-+ * Pattern Recognition by Sukhendu  Das from IIT madras & C.A.  Murty from ISI Kolkata. 
-+ * Training Program on Ultra Low Power Design Using TI MSP430G2 Launchpad.
+ * Machine Learning by Andrew Ng from Stanford University.
+ * Digital Image Processing by Guillermo Sapiro from Duke University.
+ * Robotics by Oussama Khatib from Stanford University.
+ * Natural Language Processing with Deep Learning.
+ * Introduction to Linear Dynamical Systems.
+ * Convex analysis and optimization.
+ * Pattern Recognition by Sukhendu  Das from IIT madras & C.A.  Murty from ISI Kolkata. 
+ * Training Program on Ultra Low Power Design Using TI MSP430G2 Launchpad.
 
 
