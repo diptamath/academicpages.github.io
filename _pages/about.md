@@ -19,10 +19,10 @@ Well, during leisure, I like to listen music (from different countries), read bo
 
 My Research Interests
 ------
--*Robotics
--*Computer vision 
-+*Machine Learning and its Applications
-+*Natural Language Processing
+-* Robotics
+-* Computer vision 
++* Machine Learning and its Applications
++* Natural Language Processing
 
 
 
