@@ -1,16 +1,10 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink:
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+1.	Small Model of Wirelessly Controlled Amphibian robot:                                           Nov,15 - Jan,16
+It can traverse through both land and water. It is based on design of a Hovercraft. It is a Self-made project for a robotics competition with my team. I was a team-lead and part of a design team.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
