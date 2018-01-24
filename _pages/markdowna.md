@@ -1,6 +1,6 @@
 ---
 permalink: /markdowna/
-title: "My Research works
+title: "My Research works"
 author_profile: true
 redirect_from: 
   - /md/
@@ -24,8 +24,8 @@ This RNN based model learns the phonetic relations from various words for indivi
 
 This project is associated with a DRDO funded project for developing a Quadruped Robot for Military Applications. I have joined a group of machine learning & computer vision and started developing a module for extracting geometric data from point clouds, so that quadruped can do more optimized path planning .I am doing this project under guidance of  by Ananda Shankar Chowdhury of ETCE Dept. of  Jadavpur University.  
 
- ## Collaborative Research work:-
- 
+## Collaborative Research work:-
+
 ### Single view to Multiple view via Dimensionality Reduction: a Generalized framework 
 > *Sept,17-Dec,17*
 
