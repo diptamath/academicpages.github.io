@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**_"Anyone who thinks the sky is the limit,has limited imagination."_**
-**_                                                    - James Clerk Maxwell_**
+**"Anyone who thinks the sky is the limit,has limited imagination."**
+                                                           **- James Clerk Maxwell**
 
 Currently, I’m an undergraduate student from Department of Electronics & Telecommunication Engineering at Jadavpur University. I am also an undergraduate researcher at computer vision lab at my institute. 
 
@@ -17,12 +17,12 @@ I’m also an AI & Deep Learning Enthusiast. I am intrigued by with its applicat
 
 Well, during leisure, I like to listen music (from different countries), read books (mostly thriller ones) etc.I also like to travel and have some interest in art, design.
 
-My Research Interests
-------
-+Robotics
-+Computer vision 
-+Machine Learning and its Applications
-+Natural Language Processing
+##My Research Interests
+
+*Robotics
+*Computer vision 
+*Machine Learning and its Applications
+*Natural Language Processing
 
 
 
