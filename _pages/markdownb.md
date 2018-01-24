@@ -10,15 +10,22 @@ Here are the short description of my internships in startups/company. I like to 
 
 ## DataWUDI 
 **Auto-Summary Generator for a topic in a search engine**
+
 *From 20/6/17 to 20/8/17*
 
 Summer Internship at “WUDI” for “Designing and Development of a NLP & AI based Web Application on Auto-Summary Generator for a topic in a search engine” for 2 months with a pay 70000 Rs(USD $ 1094.43) for 2  months .
 
 ## NAXAP
-**Designing and Development of  Data embedding and retrieval system for  image ,audio ,video files using invisible watermarks**                                                                                                                              *27th Augt,17- 8th Oct*               
+**Designing and Development of  Data embedding and retrieval system for  image ,audio ,video files using invisible watermarks**
+
+*27th Augt,17- 8th Oct*     
+
 This project is a virtual internship at a startup  “NAXAP”  for “ Designing and Development of  Data embedding and retrieval system for  image ,audio ,video files using invisible watermarks” for their product. This extension is made to protect the copyright and ownership of the files/document and share it more securely.
 
 ## Giscle
-**Advanced Lane Detection in the Indian road during day&night time and auto tuning of parameters**                                                                                     *Dec,17- Feb,18*               
+**Advanced Lane Detection in the Indian road during day&night time and auto tuning of parameters**   
+
+*Dec,17- Feb,18* 
+
 This project is a virtual internship at a startup “Giscle” for “Designing and Development of algorithm & it’s module for Lane Detection in the Indian road during night time and auto tuning of parameters. This module will be used for their Product for Autonomous Cars.
 
