@@ -10,7 +10,7 @@ redirect_from:
 
 **"Anyone who thinks the sky is the limit,has limited imagination."**
 
-                                                           **-  James Clerk Maxwell**
+**                                                           -  James Clerk Maxwell**
 
 Currently, I’m an undergraduate student from Department of Electronics & Telecommunication Engineering at Jadavpur University. I am also an undergraduate researcher at computer vision lab at my institute. 
 
