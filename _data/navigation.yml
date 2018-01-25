@@ -12,8 +12,8 @@ main:
   - title: "Skills"
     url: /markdownc/
         
-  - title: "Resume"
-    url: /cv/   
+  #- title: "Resume"
+    #url: /cv/   
     
   - title: "CV"
     url: "https://www.google.co.in/"
