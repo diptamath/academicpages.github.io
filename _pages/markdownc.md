@@ -33,6 +33,7 @@ I love to learn new things and study various topics on ML, DL. I also have joine
 **Robotics Simulator**
 * V-rep
 * Gazebo
+
 **Circuit Simulator**
 * NgSpice
 * Multisim 
