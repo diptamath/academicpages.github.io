@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+I love to learn new things and study various topics on ML, DL. I also have joined some groups (mainly discussion forums, study groups) and take some online courses to strengthen up my skills. In list, I mostly learn them for my projects and I learn a lot of python packages during my internships as I have to use them for development purposes. I mentioned some important & relevant packages in the list.
 
 ## Programming Languages: 
 * C
@@ -41,7 +42,7 @@ redirect_from:
 * MSP-430 microcontroller
 
 
-# Extra Online Courses & Workshop attained
+# Extra Online Courses & Workshop attended
 
  * Machine Learning by Andrew Ng from Stanford University.
  * Digital Image Processing by Guillermo Sapiro from Duke University.
