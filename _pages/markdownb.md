@@ -13,7 +13,7 @@ Here are the short description of my internships in startups/company. I like to 
 
 > *20th Jun,17 - 20th Aug,17*
 
-Summer Internship at “WUDI” for “Designing and Development of a NLP & AI based Web Application on Auto-Summary Generator for a topic in a search engine” for 2 months with a pay 70000 Rs(USD $ 1094.43) for 2  months.
+Summer Internship at “DataWUDI” for “Designing and Development of a NLP & AI based Web Application on Auto-Summary Generator for a topic in a search engine” for 2 months with a pay 70000 Rs(USD $ 1094.43).
 
 ## NAXAP
 **Designing and Development of  Data embedding and retrieval system for  image ,audio ,video files using invisible watermarks**
