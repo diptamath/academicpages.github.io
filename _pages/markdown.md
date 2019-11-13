@@ -34,23 +34,23 @@ It is a MATLAB based graphical interface for a 6DOF PUMA Robot arm for visualiza
 It is an analog circuit design project where we build a low cost EEG cum ECG sensor and a chest impedance measurement device for medical purposes. During that project, our mentor was  Prof. Nirmoy Modak of ETCE Dept. of Jadavpur University.This project is for TI Innovation Challenge. I was a team member and design the block diagram of the chest impedance measurement device and design the circuit.
 
 ### Lane detection in Night Environment using Kalman Filter 
-> *Dec,17 – Feb,18
+> *Dec,17 – Feb,18*
 
 In this project, i have implemented a unsupervised method to detect lanes in the Night environment using Kalman
 Filter.Here, Hough Transformation is used to detect the lane lines and Kalman filter is used to estimate the lane
 lines in low intensity during Night environment
 
 ### Ship-Iceberg detection from noisy SAR images using DCNN 
-> *Feb,18 – Apr,18
+> *Feb,18 – Apr,18*
 
 This project is part of a kaggle Challenge on which we worked on Binary classification problem for Ship & Iceberg
 detection from noisy SAR images using DCNN. We have used few filters to remove the noise & data augmentation
 with some contextual preprocessing to get more accuracy in our problem.
 
 ### Plant Leaf Diseases Detection using Deep Stacked Model for the Mobile Application 
-> *Sept,18 – Mar,19 
+> *Sept,18 – Mar,19* 
 
-This project is a part of ‘Technergize’ program hosted by “IEEE Computer Society India Council “ in which we are
+This project is a part of ‘Technergize’ program with the theme "AI for Social Good" hosted by “IEEE Computer Society India Council “ in which we are
 developing a deep stacking model to recognize the diseases of various plants from their leaf.
 
 
