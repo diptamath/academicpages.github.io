@@ -6,29 +6,36 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-I love to learn new things and study various topics on ML, DL. I also have joined some groups (mainly discussion forums, study groups) and take some online courses to strengthen up my skills. In list, I mostly learn them for my projects and I learn a lot of python packages during my internships as I have to use them for development purposes. I mentioned some important & relevant packages in the list.
+I love to learn new things and study various topics on ML, DL. I also have joined some groups (mainly discussion forums, study groups) and take some online courses to strengthen up my skills. 
 
 ## Programming Languages: 
 * C
 * C++
 * Python
 * MATLAB 
-## Programming Languages:
+
+## Other Languages:
 * Latex
-* Verilog
-* R(basic)
+* ROS (Robot Operating System)
+* SQL
+
 ## Libraries & Modules(Python):- 
 * OpenCV 3.0
 * numpy,matplotlib,Scipy
 * Nltk
 * Spacy
 * Scrapy
-* Kerus
+* Keras
 * Tensor Flow
+* Pytorch
 * Scikit-learn
+* XGBoost
+* Catboost
+
 ## Operating System: 
 * Windows
 * Linux 
+
 ## Software: 
 **Robotics Simulator**
 * V-rep
@@ -37,6 +44,7 @@ I love to learn new things and study various topics on ML, DL. I also have joine
 **Circuit Simulator**
 * NgSpice
 * Multisim 
+
 ## Exposure to Hardware: 
 * Arduino Uno
 * Arduino Mega
@@ -45,13 +53,14 @@ I love to learn new things and study various topics on ML, DL. I also have joine
 
 # Extra Online Courses & Workshop attended
 
- * Machine Learning by Andrew Ng from Stanford University.
- * Digital Image Processing by Guillermo Sapiro from Duke University.
- * Robotics by Oussama Khatib from Stanford University.
- * Natural Language Processing with Deep Learning.
- * Introduction to Linear Dynamical Systems.
- * Convex analysis and optimization.
- * Pattern Recognition by Sukhendu  Das from IIT madras & C.A.  Murty from ISI Kolkata. 
- * Training Program on Ultra Low Power Design Using TI MSP430G2 Launchpad.
+* Machine Learning by Andrew Ng from Stanford University
+* Digital Image Processing by Guillermo Sapiro from Duke University
+* CS231n: Convolutional Neural Networks for Visual Recognition from Stanford University
+* Robotics by Oussama Khatib from Stanford University
+* CS224n: Natural Language Processing with Deep Learning from Stanford University
+* Introduction to Linear Dynamical Systems
+* Convex analysis and optimization
+* Pattern Recognition by Sukhendu Das from IIT madras & C.A. Murty from ISI Kolkata
+* Training Program on Ultra Low Power Design Using TI MSP430G2 Launchpad
 
 
