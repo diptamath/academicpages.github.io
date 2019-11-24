@@ -28,7 +28,7 @@ redirect_from:
 * Worked on Research Problem on Devloping Language Indentification , Sentiment Analysis Model for Code-Mixed Data
 * Created a Bengali-English Code-mixed Dataset for NLP tools contests at ICON 2017
 
-### Internship
+# Internship
 
 ## Silversparro
 **CONCURRENT TEMPORAL ACTION RECOGNITION USING INFLATED 3D CONVNETS (I3D)**
