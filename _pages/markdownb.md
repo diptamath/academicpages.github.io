@@ -52,7 +52,8 @@ redirect_from:
 * This project is a virtual internship at a startup “Giscle” for “Designing and Development of algorithm & it’s module for Lane Detection in the
 Indian road during day & night time using Deep Learning. This module is a part of their kit for their Product for Autonomous Cars.
 * implemented the lane detection for both straight & curved lanes using regression & RANSAC algorithm.
-## NAXAP
+
+## NAXAP (Bytescare)
 **DEVELOPMENT OF DATA EMBEDDING AND RETRIEVAL SYSTEM FOR IMAGE ,AUDIO ,VIDEO FILES USING INVISIBLE WATERMARKS**
 > *27th Augt,17 - 8th Oct,17*
 
