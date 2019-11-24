@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+
 ### Energy Optimized Robot arm Path Planning using Differential Evolution Algorithm
 > *Oct,16 – Jan,17*
 
@@ -15,15 +16,18 @@ This project deals with a evolutionary approach to design a algorithm for energy
 > *Oct,16 – Sept,17*
 
 Most of obstacle avoidance algorithm like gravitation based search or charge based object avoidance algorithm failed in crowded dynamic unknown environment due to large number of static and moving objects as they have to consider so many objects and compute a lot of functions. In this scenario, our proposed algorithm gives a low computational approach with faster responses to the robot for obstacle avoidance. Our algorithm also worked on fast movement of the robot due to less secondary response time. Here, main object of each robot is to reach a goal position from an initial position. So, we design an online path planning algorithm which is capable of giving a fast response to a possible threat or moving object. This project is guided by  [Dr. Pratyusha Rakhshit](https://scholar.google.co.in/citations?user=00rPoQEAAAAJ&hl=en) of ETCE Dept. of Jadavpur University.
+
 ### Phonetic based Language Identification of Mixed Coded Data Using LSTM
 > *March,17 – June,17*
 
 This RNN based model learns the phonetic relations from various words for individual languages. I designed a Phonetic based feature extractor for the words from the mixed coded data, which will be used for language classification. we have used our created dataset of Mixed Coded text (Bengali- English) twitter data. I have done this project under [Dr. Dipankar Das](http://www.dasdipankar.com/) of CSE Dept. of  Jadavpur University. 
 
-### Geometric data extraction from 3D point cloud for feeding data into generative model
-> *Oct,17 – ongoing*
+### Geometric data extraction from 3D point cloud of the LIDAR for a generative model
+> *Oct,17 – Dec,18*
 
-This project is associated with a DRDO funded project for developing a Quadruped Robot for Military Applications. I have joined a group of machine learning & computer vision and started developing a module for extracting geometric data from point clouds, so that quadruped can do more optimized path planning .I am doing this project under joint guidance of  by [Dr.Ananda Shankar Chowdhury](https://sites.google.com/site/anandachowdhury/) of ETCE Dept. of  Jadavpur University & [Sanjoy Kumar Saha](https://scholar.google.co.in/citations?user=yI6xE0YAAAAJ&hl=en) of CSE Dept. of Jadavpur University.  
+This project is associated with a DRDO funded project for developing a Quadruped Robot for Military Applications
+in the Neptune Lab. We are developing a unsupervised algorithm for extracting geometric data from point clouds
+of a LIDAR,So that quadruped can do more optimized path planning. I had done this project under joint guidance of  by [Dr.Ananda Shankar Chowdhury](https://sites.google.com/site/anandachowdhury/) of ETCE Dept. of  Jadavpur University & [Sanjoy Kumar Saha](https://scholar.google.co.in/citations?user=yI6xE0YAAAAJ&hl=en) of CSE Dept. of Jadavpur University.  
 
 ## Collaborative Research work:-
 
