@@ -23,7 +23,7 @@ redirect_from:
 
 ### JU-NLP Lab (Jadavpur University)
 **UNDERGRADUATE RESEARCH ASSISTANT**
-> *March,17 – Sept,17
+> *March,17 – Sept,17*
 
 * Worked on Research Problem on Devloping Language Indentification , Sentiment Analysis Model for Code-Mixed Data
 * Created a Bengali-English Code-mixed Dataset for NLP tools contests at ICON 2017
