@@ -16,14 +16,14 @@ redirect_from:
 
 ### Neptune Lab (JU-DRDO Joint Research Lab, Jadavpur University)
 **UNDERGRADUATE RESEARCH ASSISTANT**
-> *Oct,17 – Feb,19*
+> *8th Oct,17 – 28th Feb,19*
 
 * Worked on Computer Vision, 3D Point Cloud Processing Research Problems for Developing a Vision Based Control System of Quadruped Robot.
 * Created Synthetic Dataset of LIDAR Data for Our Project by using Blensor with Velodyne LIDAR
 
 ### JU-NLP Lab (Jadavpur University)
 **UNDERGRADUATE RESEARCH ASSISTANT**
-> *March,17 – Sept,17*
+> *1st March,17 – 30th Sept,17*
 
 * Worked on Research Problem on Devloping Language Indentification , Sentiment Analysis Model for Code-Mixed Data
 * Created a Bengali-English Code-mixed Dataset for NLP tools contests at ICON 2017
