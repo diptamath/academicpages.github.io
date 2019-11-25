@@ -26,7 +26,7 @@ Workshop/Competition Track
 ======
 * Sourya Dipta Das, Ayan Basak, Soumil Mandal , ”Fine Grained Insincere Questions Classification using Ensembles
 of Bidirectional LSTM-GRU Model”, CEUR Workshop Proceedings at Forum for Information Retrieval Evaluation
-(FIRE) 2019 (Accepted) [[Paper]](https://drive.google.com/file/d/1ExnulspT1sOJr3XUkQuTDkoQjnv6dUeJ/view?usp=sharing) [[Code][](https://github.com/diptamath/CIQ-Challenge)
+(FIRE) 2019 (Accepted) [[Paper]](https://drive.google.com/file/d/1ExnulspT1sOJr3XUkQuTDkoQjnv6dUeJ/view?usp=sharing) [[Code]](https://github.com/diptamath/CIQ-Challenge)
 * Soumil Mandal, Sourya Dipta Das , ”Unsupervised Identification of Relevant Cases & Statutes Using Word
 Embeddings”, CEUR Workshop Proceedings at Forum for Information Retrieval Evaluation (FIRE) 2019 (Accepted)
 [[Paper]](https://drive.google.com/file/d/1-XZ4RxTCkNDMcrJX3jASPDv8CfQpZg-A/view?usp=sharing) [[Code]](https://github.com/diptamath/ailacomp)
