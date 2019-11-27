@@ -29,7 +29,7 @@ This project is associated with a DRDO funded project for developing a Quadruped
 in the Neptune Lab. We are developing a unsupervised algorithm for extracting geometric data from point clouds
 of a LIDAR,So that quadruped can do more optimized path planning. I had done this project under joint guidance of  by [Dr.Ananda Shankar Chowdhury](https://sites.google.com/site/anandachowdhury/) of ETCE Dept. of  Jadavpur University & [Sanjoy Kumar Saha](https://scholar.google.co.in/citations?user=yI6xE0YAAAAJ&hl=en) of CSE Dept. of Jadavpur University.  
 
-### Indian Langauge Transliteration System using Seq2Seq Model
+### Indian Language Transliteration System using Seq2Seq Model
 > *May,17 – Sept,17*
 
 Main goal of this system is to generate roman transliterrated represenatation of word from another Indian langauge(like Hindi,Bengali)  based on user phonetic morhological trend. We have used LSTM based seq2seq model and validated our system using turing test.
