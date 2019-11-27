@@ -11,22 +11,22 @@ redirect_from:
 > *1st August,19 - Present*
 
 * Currently Working on Dialogue Act Classification from Telephone Calls.
-* Worked on Human-Object Interaction Classification Problem
-* Worked on Semantic Segmentation of Steel Surface Defects from Steel Sheets
+* Worked on Human-Object Interaction Classification Problem.
+* Worked on Semantic Segmentation of Steel Surface Defects from Steel Sheets.
 
 ### Neptune Lab (JU-DRDO Joint Research Lab, Jadavpur University)
 **UNDERGRADUATE RESEARCH ASSISTANT**
 > *8th Oct,17 – 28th Feb,19*
 
-* Worked on Computer Vision, 3D Point Cloud Processing Research Problems for Developing a Vision Based Control System of Quadruped Robot.
-* Created Synthetic Dataset of LIDAR Data for Our Project by using Blensor with Velodyne LIDAR
+* Worked on Computer Vision, 3D Point Cloud Processing Research Problems for Developing a Vision Based Control System of Quadruped Robot under joint guidance of [Dr. Ananda Shankar Chowdhury](https://sites.google.com/site/anandachowdhury/) & [Dr. Sanjoy Kumar Saha](https://scholar.google.co.in/citations?user=yI6xE0YAAAAJ&hl=en).
+* Created Synthetic Dataset of LIDAR Data for Our Project by using Blensor with Velodyne LIDAR.
 
 ### JU-NLP Lab (Jadavpur University)
 **UNDERGRADUATE RESEARCH ASSISTANT**
 > *1st March,17 – 30th Sept,17*
 
-* Worked on Research Problem on Devloping Language Indentification , Sentiment Analysis Model for Code-Mixed Data
-* Created a Bengali-English Code-mixed Dataset for NLP tools contests at ICON 2017
+* Worked on Research Problem on Devloping Language Indentification , Sentiment Analysis Model for Code-Mixed Data under guidance of [Dr. Dipankar Das](http://www.dasdipankar.com/).
+* Created a Bengali-English Code-mixed Dataset for NLP tools contests at ICON 2017.
 
 
 
@@ -43,7 +43,7 @@ redirect_from:
 **DYNAMIC OBJECT EXTRACTION FROM MOVING MONOCULAR CAMERA**
 > *18th May,18 - 30th July,18*
 
-* Summer Internship at “Autonomous Drone Lab of TCS Innovation Lab , Kolkata” under Dr. Arnab Sinha. for research & developing the solution for “Dynamic Object Extraction from Moving Monocular Camera” project which is a part of MBZIRC 2020 Challenge
+* Summer Internship at “Autonomous Drone Lab of TCS Innovation Lab , Kolkata” under Dr. Arnab Sinha. for research & developing the solution for “Dynamic Object Extraction from Moving Monocular Camera” project which is a part of MBZIRC 2020 Challenge.
 * Implemented a ROS packages for Automated Photometric Calibration.
 * Done a comparative study between different types of Monocular SLAM Algorithms (like ORB SLAM ,DSO) under different conditions like variable intensity , dynamic environment etc.
 
