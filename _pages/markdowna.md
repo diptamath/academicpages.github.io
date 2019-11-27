@@ -17,7 +17,7 @@ This project is my submitted solution for AIM 2019 Demoireing Challenge - Track 
 
 Main goal of this project is fast detection and segmentation surface defects based on their defect type/class from steel sheets. SE-ResNeXt-50 Unet is used for semantic segmentation with Combined loss of Binary cross-entropy loss and Dice Loss.
 
-### Noisy Text Classification using BERT
+### Multiclass Noisy Text Classification using BERT
 > *Jun,19 – Jul,19*
 
 This project is a part of’CIQ Challenge’organized by FIRE 2019 to identify Noisy Insincere Questions from Question Answer Community.Pipeline is consists of several text pre-processing techniques to reduce noise and Pre-trained BERT model for transfer learning.
