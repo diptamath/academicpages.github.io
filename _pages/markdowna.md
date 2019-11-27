@@ -10,7 +10,7 @@ redirect_from:
 ### Demoireing High Resolution Images Using Conditional GANs
 > *Jul,19 – Sept,19*
 
-
+This project is my submitted solution for AIM 2019 Demoireing Challenge - Track 2: Perceptual of ICCV 2019. Here, i have used a Global Generator instead of local Generator to emphasize on global features more to increase fidelity & perceptual quality of the image. As Moire effect heavily dependent on scale of the image, i have made an image translation model in high resolution by using a Multiscale Discriminator instead of doing up scaling which is computationally heavy task. 
 
 ### Semantic Segmentation of Steel Surface Defects Using SE-ResNeXt-50 Unet
 > *Aug,19 – Oct,19*
@@ -37,7 +37,7 @@ Main goal of this system is to generate roman transliterrated represenatation of
 ### Phonetic based Language Identification of Mixed Coded Data Using LSTM
 > *March,17 – June,17*
 
-This RNN based model learns the phonetic relations from various words for individual languages. I designed a Phonetic based feature extractor for the words from the mixed coded data, which will be used for language classification. we have used our created dataset of Mixed Coded text (Bengali- English) twitter data. I have done this project under [Dr. Dipankar Das](http://www.dasdipankar.com/) of CSE Dept. of  Jadavpur University. 
+This RNN based model learns the phonetic relations from various words for individual languages. I designed a Phonetic based feature extractor for the words from the mixed coded data, which will be used for language classification. we have used our created dataset of Mixed Coded text (Bengali-English) twitter data. I have done this project under [Dr. Dipankar Das](http://www.dasdipankar.com/) of CSE Dept. of  Jadavpur University. 
 
 ### Path planning of autonomous robots in crowded dynamic unknown environment using Artificial Immune System Optimization
 > *Oct,16 – Sept,17*
