@@ -6,6 +6,20 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+### Code-Mixed Data Generation for Low Resource Language Pairs
+> *Aug,19 – Feb,20*
+
+This research project is in collaboration with JU-NLP lab for generating code-mixed data from normal monolingual text for low resource language pairs( here, Bengali-English Pair). Generated code-mixed data can be used in chatbots and also as augmented data for various NLP tasks in code-mixed data domain. 
+
+### Sentiment Analysis of Hindi-English Code-Mixed Data with Noisy Label
+> *Oct,19 – Jan,20*
+
+This project is part of the feature extraction module from Dialogue Act Classification from Telephone Calls Project and also my submitted solution for Sentimix Challenge of SemEval 2020. Here, cascaded LSTM-GRU with Multi-Head Attention layers is used with Sub-word Embedding to make it more robust to the noisy data. Problem of Noisy label is also handled by the noise adaptation layer added at the end of the model.Paper of this project is currently under review. 
+
+### Fine Grained Sentiment Analysis of Meme Image & Texts using Multi-Task Learning
+> *Oct,19 – Feb,20*
+
+This project is submitted solution for Memotion Analysis Challenge of SemEval 2020. Here, ResNet, LSTM-GRU model with Attention are used to extract features from image and corresponding text respectively. Sentiment value and class of the memes are learned jointly by a single network. Paper of this project is currently under review.
 
 ### Demoireing High Resolution Images Using Conditional GANs
 > *Jul,19 – Sept,19*
