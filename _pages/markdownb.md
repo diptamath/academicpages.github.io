@@ -10,7 +10,7 @@ redirect_from:
 **DEEP LEARNING RESEARCHER**
 > *1st August,19 - Present*
 
-* Working on Domain Adaptive Semi-Supervised Classification Problem for Sparrosense AI Supervisor Product
+* Working on Domain Adaptive Semi-Supervised Classification Problem for Sparrosense AI Supervisor Product.
 * Worked on Dialogue Act Classification from Telephone Calls.
 * Worked on Human-Object Interaction Classification Problem.
 * Worked on Semantic Segmentation of Steel Surface Defects from Steel Sheets.
