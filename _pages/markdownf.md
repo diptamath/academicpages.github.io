@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-
+* Global joint 8th Position out of 167 Teams, 1st Post Evaluation,atCOVID‑19 Fake News DetectionChallengeof CONSTRAINT workshop at AAAI‑2020
 * Global Fifth Position (1st in India), at AIM 2019 Demoireing Challenge - Track 2: Perceptual of ICCV 2019 in Seoul, Korea
 * Challenge Winner, of Classification of Insincere Questions (CIQ) Challenge in FIRE 2019
 * Forth Position, at Task 2 of Artificial Intelligence for Legal Assistance (AILA 2019) Challenge in FIRE 2019
