@@ -13,7 +13,7 @@ redirect_from:
 * Actively Participated in Product Management, Competitor Analysis as a part of CTO Team.
 * Worked on RZT Document Processor for LIBOR AI \& Document Question Answering System.
 * Built Cloth Semantic Segmentation for Apparel Similarity Module by using U-net.
-* Implemented 'Integrated Gradient' feature as a Marketplace Block for various tasks (Text, Image Classification etc.
+* Implemented 'Integrated Gradient' feature as a Marketplace Block for various tasks (Text, Image Classification etc).
 * Big Data Processing of 4 million records by using PySpark for Fraud Customer Detection.
 * Built Anomaly Detection in Mechanical Parts by using Multi Layer Feature Sparse Encoding & Autoencoder.
 
