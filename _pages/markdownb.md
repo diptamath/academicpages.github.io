@@ -6,9 +6,20 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-### Silversparro
+### Razorthink Inc
+**ARTIFICIAL INTELLIGENCE ENGINEER**
+> *1st May,20 - Present*
+
+* Actively Participated in Product Management, Competitor Analysis as a part of CTO Team.
+* Worked on RZT Document Processor for LIBOR AI \& Document Question Answering System.
+* Built Cloth Semantic Segmentation for Apparel Similarity Module by using U-net.
+* Implemented 'Integrated Gradient' feature as a Marketplace Block for various tasks (Text, Image Classification etc.
+* Big Data Processing of 4 million records by using PySpark for Fraud Customer Detection.
+* Built Anomaly Detection in Mechanical Parts by using Multi Layer Feature Sparse Encoding & Autoencoder.
+
+### Sparrosense (Silversparro)
 **DEEP LEARNING RESEARCHER**
-> *1st August,19 - Present*
+> *1st September,19 - 30th April,20*
 
 * Working on Domain Adaptive Semi-Supervised Classification Problem for Sparrosense AI Supervisor Product.
 * Worked on Dialogue Act Classification from Telephone Calls.
@@ -35,7 +46,7 @@ redirect_from:
 
 ## Silversparro
 **CONCURRENT TEMPORAL ACTION RECOGNITION USING INFLATED 3D CONVNETS (I3D)**
-> *7th June,19 - 31st July,19*
+> *7th June,19 - 31st August,19*
 
 * Research Internship at “Video Analytics Lab” at Silversparro for research & developing the solution for “ Fast Concurrent Temporal Action Recognition”.
 * Contributed various Object Detection pipelines for ’Multiview Person Detection’ using Deformable-ConvNet(DCN) , RetinaNet etc.
