@@ -17,12 +17,7 @@ I’m an AI & Deep Learning Enthusiast. I am intrigued by with its applications 
 
 Well, during leisure, I like to listen music (from different countries), read books (mostly thriller ones) etc.I also like to travel and have some interest in art, design.
 
-### My Research Interests
-* Robotics
-* Computer vision
-* 3D Point Cloud Processing
-* Machine Learning and its Applications
-*	Natural Language Processing
+**My Research Interests : ** *Robotics, Computer vision, 3D Point Cloud Processing, Machine Learning and its Applications, Natural Language Processing*
 
 
 
