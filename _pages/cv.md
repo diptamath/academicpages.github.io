@@ -27,9 +27,9 @@ Publication
 
 Challenge Papers
 ======
-* Andrey Ignatov, Grigory Malivenko, Radu Timofte,.., Saikat Dutta, Sourya Dipta Das, Nisarg A. Shah, Himanshu Kumar *et al.), **"Fast and Accurate Quantized Camera Scene Detection on Smartphones, Mobile AI 2021 Challenge: Report"**, *CVPR Workshops 2020*  [[Paper]](https://arxiv.org/abs/2105.08819)
-* Majed El Helou, Ruofan Zhou, Sabine Süsstrunk, Radu Timofte,.., Sourya Dipta Das, Nisarg A. Shah, Akashdeep Jassal *et al.), **"AIM 2020: Scene Relighting and Illumination Estimation Challenge"**, *ECCV Workshops 2020*  [[Paper]](https://arxiv.org/abs/2009.12798)
-* Andrey Ignatov, Radu Timofte,.., Saikat Dutta, Sourya Dipta Das, Nisarg A. Shah *et al.), **"AIM 2020 Challenge on Rendering Realistic Bokeh"**, *ECCV Workshops 2020*  [[Paper]](https://arxiv.org/abs/2011.04988)
-* Codruta O. Ancuti, Cosmin Ancuti, Florin-Alexandru Vasluianu, Radu Timofte,.., Sourya Dipta Das,  Saikat Dutta *et al.), **"NTIRE 2020 Challenge on NonHomogeneous Dehazing"**, *CVPR Workshops 2020*  [[Paper]](https://arxiv.org/abs/2005.03457)
-* Seungjun Nah, Sanghyun Son, Radu Timofte,.., Saikat Dutta, Sourya Dipta Das, *et al.), **"NTIRE 2020 Challenge on Image and Video Deblurring"**, *CVPR Workshops 2020*  [[Paper]](https://arxiv.org/abs/2005.01244)
-* Shanxin Yuan, Radu Timofte, Gregory Slabaugh, Ales Leonardis,.., Sourya Dipta Das *et al.), **"AIM 2019 Challenge on Image Demoireing: Methods and Results"**, *ICCV Workshops 2019*  [[Paper]](https://arxiv.org/abs/1911.03461)
+* Andrey Ignatov, Grigory Malivenko, Radu Timofte,.., Saikat Dutta, Sourya Dipta Das, Nisarg A. Shah, Himanshu Kumar *et al. **"Fast and Accurate Quantized Camera Scene Detection on Smartphones, Mobile AI 2021 Challenge: Report"**, *CVPR Workshops 2020*  [[Paper]](https://arxiv.org/abs/2105.08819)
+* Majed El Helou, Ruofan Zhou, Sabine Süsstrunk, Radu Timofte,.., Sourya Dipta Das, Nisarg A. Shah, Akashdeep Jassal *et al. **"AIM 2020: Scene Relighting and Illumination Estimation Challenge"**, *ECCV Workshops 2020*  [[Paper]](https://arxiv.org/abs/2009.12798)
+* Andrey Ignatov, Radu Timofte,.., Saikat Dutta, Sourya Dipta Das, Nisarg A. Shah *et al. **"AIM 2020 Challenge on Rendering Realistic Bokeh"**, *ECCV Workshops 2020*  [[Paper]](https://arxiv.org/abs/2011.04988)
+* Codruta O. Ancuti, Cosmin Ancuti, Florin-Alexandru Vasluianu, Radu Timofte,.., Sourya Dipta Das,  Saikat Dutta *et al. **"NTIRE 2020 Challenge on NonHomogeneous Dehazing"**, *CVPR Workshops 2020*  [[Paper]](https://arxiv.org/abs/2005.03457)
+* Seungjun Nah, Sanghyun Son, Radu Timofte,.., Saikat Dutta, Sourya Dipta Das, *et al. **"NTIRE 2020 Challenge on Image and Video Deblurring"**, *CVPR Workshops 2020*  [[Paper]](https://arxiv.org/abs/2005.01244)
+* Shanxin Yuan, Radu Timofte, Gregory Slabaugh, Ales Leonardis,.., Sourya Dipta Das *et al. **"AIM 2019 Challenge on Image Demoireing: Methods and Results"**, *ICCV Workshops 2019*  [[Paper]](https://arxiv.org/abs/1911.03461)
