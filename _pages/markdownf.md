@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * Global 4th Position at MAI Real-time Camera Scene Detection Challenge of Mobile AI Workshop, CVPR 2021
-* Global joint 8th Position out of 167 Teams, 1st Post Evaluation, at COVID‑19 Fake News Detection Challenge of CONSTRAINT workshop at AAAI‑2020
+* Global joint 8th Position out of 167 Teams, 1st Post Evaluation, at COVID‑19 Fake News Detection Challenge of CONSTRAINT workshop at AAAI‑2021
 * Global 4th Position at SemEval-2020 Task 8: Memotion Analysis Challenge, Task-A Sentiment Analysis of SemEval-2020
 * Global Fifth Position (1st in India), at AIM 2019 Demoireing Challenge - Track 2: Perceptual of ICCV 2019 in Seoul, Korea
 * Challenge Winner, of Classification of Insincere Questions (CIQ) Challenge in FIRE 2019
